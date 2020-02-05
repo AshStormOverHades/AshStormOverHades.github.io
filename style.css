@@ -548,7 +548,7 @@ nav ul{
     font-family:'Source Code Pro', monospace;
     font-weight: lighter;
     color: black;
-    padding-top: 50px;
+    padding-top: 10px;
     padding-left: 60px;
     
 
@@ -576,7 +576,7 @@ nav ul{
 }
 
 .skills_slide{
-    min-height: 105vh;
+    min-height: 120vh;
 }
 
 
