@@ -5,8 +5,6 @@
     
 }
 
-
-
 html{
     scroll-behavior: smooth;
 }
@@ -15,7 +13,7 @@ html{
 
 
 .intro_slide{
-    min-height: 110vh;
+    min-height: 86vh;
     min-width: 1024px;
     background-color: black;
     text-align: center;
@@ -224,7 +222,7 @@ nav ul{
     /* alternate "slides" between balck and white, should give cool effect */
     /* about me will be balck text white backround, greyscale picture will work best*/
     background-color:whitesmoke;
-    min-height: 115vh;
+    min-height: 100vh;
     min-width: 1024px;
     position: relative;
     
@@ -416,7 +414,7 @@ nav ul{
 .project_logo h1{
     color: whitesmoke;
     padding-top: 60px;
-    padding-left: 500px;
+    padding-left: 750px;
     font-family: 'Source Code Pro', monospace;
     font-size: 800%;
     font-weight: lighter;
@@ -550,7 +548,7 @@ nav ul{
     font-family:'Source Code Pro', monospace;
     font-weight: lighter;
     color: black;
-    padding-top: 10px;
+    padding-top: 80px;
     padding-left: 60px;
     
 
@@ -563,7 +561,7 @@ nav ul{
     font-size: 18;
     font-weight: lighter;
     padding-bottom: 20px;
-    padding-top: 80px;
+    padding-top: 100px;
     
 
 }
@@ -578,7 +576,7 @@ nav ul{
 }
 
 .skills_slide{
-    min-height: 120vh;
+    min-height: 105vh;
 }
 
 
