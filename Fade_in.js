@@ -4,7 +4,7 @@
   
     function init() {
       elements = document.querySelectorAll('.hidden');
-      windowHeight = window.innerHeight;_checkPosition(); after_addEventHandlers();
+      windowHeight = window.innerHeight;
     }
   
     function checkPosition() {
