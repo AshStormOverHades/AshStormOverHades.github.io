@@ -420,10 +420,10 @@ nav ul{
     
 }
 
-.project_logo h1{
+.project_logo{
     color: whitesmoke;
     padding-top: 60px;
-    padding-left: 500px;
+    padding-left: 600px;
     font-family: 'Source Code Pro', monospace;
     font-size: 800%;
     font-weight: lighter;
